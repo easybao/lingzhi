@@ -11,6 +11,8 @@ public class GitTestController {
 
     public static void main(String[] args) {
         System.out.println("12365135");
-        System.out.println("sdfaefae");
+        System.out.println("master");
+        System.out.println("dev");
+        System.out.println("feature=1324");
     }
 }
